@@ -1,2 +1,2 @@
 # My_Web_Struct-MVC-PHP
-Estrutura MVC feita em PHP
+Estrutura M.V.C feita em PHP
